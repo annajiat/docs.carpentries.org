@@ -337,9 +337,11 @@ Attendance is required for the full two-days of the workshop in order to certify
 
 Before your training, please:
 
- - Complete our pre-workshop survey [INSERT LINK] . Your responses will help your Trainers understand your background and customize the workshop appropriately.
- - Read this short paper: https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf which provides a brief overview of some key evidence-based results in teaching.
- - Go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/), the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), or the Library Carpentry lessons page (https://librarycarpentry.org/lessons/) to see what we currently teach. Carefully read through one episode of your choice. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson.
+ 1. Complete our pre-workshop survey [INSERT LINK] . Your responses will help your Trainers understand your background and customize the workshop appropriately.
+ 2. Please take a moment to read the following: 
+* ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
+* ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
+ 3\. Go to the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), the Library Carpentry lessons page (https://librarycarpentry.org/lessons/), or the Software Carpentry lessons page (http://software-carpentry.org/lessons/) to see what we currently teach. Carefully read through one episode of your choice. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson.
 
 After your training, you will be asked to do three follow-up exercises online in order to become a certified Instructor. These requirements are detailed at https://carpentries.github.io/instructor-training/checkout/ and will be discussed at your training. If you have any questions about the workshop, the reading material, or anything else, please don’t hesitate to get in touch.
 
